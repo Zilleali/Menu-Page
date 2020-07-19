@@ -1,0 +1,14 @@
+th, td {
+    padding: 22px;}
+    h2 {color:orange}
+      body {background-color:White }
+    legend   {color:orange}
+    fieldset   {border: 2px solid green;}
+    /*input {background-color: orange}*/
+    /*input{ color: green }*/
+    #place_order{
+        float: right;
+        background-color: orange;
+        color: #ffffff;
+        border-color: green;
+    }
